@@ -20,7 +20,8 @@ body {
 /* Write all remaining styles here */
 
 .main {
-	
+	width: 80%
+	margin: 0 auto;
 }
 
 #title h1 {
