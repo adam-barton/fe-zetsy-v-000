@@ -18,6 +18,11 @@ body {
 }
 
 /* Write all remaining styles here */
+
+.main {
+	
+}
+
 #title h1 {
-	margin-left: 20px
+	border-bottom: 1px solid black;
 }
